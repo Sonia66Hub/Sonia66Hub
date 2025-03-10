@@ -1,6 +1,7 @@
 (https://media.licdn.com/dms/image/v2/D4E16AQHzX3j5kf1TZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736527517850?e=1747267200&v=beta&t=pGnxaZzJdYklBBEnclri1gqM5XPtTQufsJ2QnP9H4-w)
-### Hi there 👋, I'm Sonia Khatun
-#### Web Developer
+                                                                                                                                                                             
+# Hi there 👋, I'm Sonia Khatun
+# Web Developer
 
 I am a highly motivated and detail-oriented Dotnet Developer with a strong passion for technology and software development. My expertise lies in ASP.NET MVC and Microsoft SQL Server, complemented by a solid understanding of computer fundamentals. I thrive on creating efficient, scalable, and innovative solutions that address real-world challenges.
 
