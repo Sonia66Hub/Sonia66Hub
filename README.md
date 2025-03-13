@@ -1,5 +1,5 @@
 
-![Polash paper_9049](https://github.com/user-attachments/assets/88706fdd-b84b-4ac8-ba58-1d88f78960ab)
+![hu460cz7](https://github.com/user-attachments/assets/0782149d-f81b-4579-baaf-5e9138635674)
 
                                                                                                                                                                              
 # Hi there 👋, I'm Sonia Khatun
