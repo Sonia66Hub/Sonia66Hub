@@ -1,4 +1,5 @@
-https://media.licdn.com/dms/image/v2/D4E16AQHzX3j5kf1TZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736527517850?e=1747267200&v=beta&t=pGnxaZzJdYklBBEnclri1gqM5XPtTQufsJ2QnP9H4-w
+
+![Polash paper_9049](https://github.com/user-attachments/assets/88706fdd-b84b-4ac8-ba58-1d88f78960ab)
 
                                                                                                                                                                              
 # Hi there 👋, I'm Sonia Khatun
