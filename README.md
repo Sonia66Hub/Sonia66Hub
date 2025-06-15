@@ -1,6 +1,4 @@
-
-(https://media.licdn.com/dms/image/v2/D4E16AQHzX3j5kf1TZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736527517850?e=1755734400&v=beta&t=S2tzL7c0-CyotAp89rJ5wj7Kyf2Miv4ZA23xeU4x5Lk)
-                                                                                                                                                                             
+ C:\Users\SHAJIB\Downloads\img.jpg                                                                                                           
 # Hi there 👋, I'm Sonia Khatun
 # Web Developer
 
