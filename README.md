@@ -1,4 +1,5 @@
- C:\Users\SHAJIB\Downloads\img.jpg                                                                                                           
+![ime](https://github.com/user-attachments/assets/b1d16715-d01d-49cc-ae5e-12e92d69bb85)
+                                                                         
 # Hi there 👋, I'm Sonia Khatun
 # Web Developer
 
