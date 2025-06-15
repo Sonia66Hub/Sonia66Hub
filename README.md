@@ -1,4 +1,5 @@
-![ime](https://github.com/user-attachments/assets/b1d16715-d01d-49cc-ae5e-12e92d69bb85)
+![img](https://github.com/user-attachments/assets/802e8b84-501a-46da-83b1-f22f80203687)
+
                                                                          
 # Hi there 👋, I'm Sonia Khatun
 # Web Developer
