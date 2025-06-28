@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **Sonia66Hub/Sonia66Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
