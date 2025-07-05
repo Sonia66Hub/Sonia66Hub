@@ -3,20 +3,45 @@
 # Hi there 👋, This is Sonia Khatun
 # .NET Developer
 
-I am a highly motivated and detail-oriented .NET Developer with a strong passion for technology and software development. My expertise lies in ASP.NET MVC and Microsoft SQL Server, complemented by a solid understanding of computer fundamentals. I thrive on creating efficient, scalable, and innovative solutions that address real-world challenges.
+🌟 Hey there! I’m Sonia – Code Enthusiast & Problem Solver
+I’m a .NET Developer who views code not just as a tool, but as a bridge between ideas and real-world impact. I specialize in ASP.NET MVC and Microsoft SQL Server, but my curiosity never stops at mastering the basics. I’m always on the lookout for innovative solutions to solve complex problems and simplify life for users.
 
-Currently, I am a proud student at Lalmatia Govt. Mohila College, where I am expanding my academic foundation in technology. Simultaneously, I am gaining hands-on experience as a .NET Developer at Star Computer Systems Limited, where I contribute to the development of cutting-edge applications.
+Building web apps that are as beautiful as they are functional is my thing. My goal isn’t just to write clean code, but to create digital experiences that leave a lasting impression. Every line of code is an opportunity to make something better, faster, and more intuitive.
 
-My Technical Skills Include:
-ASP.NET MVC: Proficient in developing dynamic, data-driven web applications.
-Microsoft SQL Server: Skilled in database design, optimization, and management.
-Programming Expertise: Strong command of .NET technologies, ensuring clean and maintainable code.
-What Drives Me:
-Continuous Learning: I am committed to staying at the forefront of technology by mastering emerging tools and frameworks.
-Problem-Solving: I enjoy tackling complex challenges and finding creative solutions to enhance user experience and system performance.
-Collaboration: I thrive in team environments where ideas are shared and innovation is fostered.
-Beyond Work:
-When I’m not coding, I enjoy exploring new technologies, enhancing my knowledge through online courses, and participating in community-driven tech events. I am also keen on mentoring peers and sharing knowledge to help others grow in the field of software development.
+🔧 My Toolkit:
+Languages: C#, SQL
+
+Frameworks & Platforms: ASP.NET MVC, .NET Core, Azure
+
+Databases: Microsoft SQL Server, MySQL, 
+
+Tools: Visual Studio, Git, SQL Server Management Studio, Postman, Docker
+
+💡 Currently Exploring:
+ASP.NET Core for high-performance web development
+
+Cloud Computing (Azure) for scalable, reliable systems
+
+DevOps & CI/CD to streamline and automate the development lifecycle
+
+Machine Learning & AI to build smarter solutions
+
+🔥 My Developer Philosophy:
+I believe in purpose-driven development—writing code that has meaning and solving problems that matter. For me, coding isn’t just a job; it’s a way to connect with the world, solve problems, and make a tangible difference. My ambition is to build solutions that not only work but evolve with time, helping users achieve more and do more.
+
+🚀 Let’s Build the Future Together!
+Let’s create something awesome. Whether you're looking to collaborate on a project, share some tech insights, or discuss innovative ideas, I’m always open to connecting with like-minded people.
+
+📫 Reach Out:
+www.linkedin.com/in/sonia-yesmin
+
+
+
+
+
+
+
+
 
 I am excited to connect with like-minded professionals and organizations that value innovation and impact. Let’s collaborate to build something extraordinary!
 
