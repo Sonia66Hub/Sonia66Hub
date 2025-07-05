@@ -24,7 +24,7 @@ Cloud Computing (Azure) for scalable, reliable systems
 
 DevOps & CI/CD to streamline and automate the development lifecycle
 
-Machine Learning & AI to build smarter solutions
+ AI to build smarter solutions
 
 🔥 My Developer Philosophy:
 I believe in purpose-driven development—writing code that has meaning and solving problems that matter. For me, coding isn’t just a job; it’s a way to connect with the world, solve problems, and make a tangible difference. My ambition is to build solutions that not only work but evolve with time, helping users achieve more and do more.
