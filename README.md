@@ -4,33 +4,34 @@
 # .NET Developer
 
 🌟 Hey there! I’m Sonia – Code Enthusiast & Problem Solver
-I’m a .NET Developer who views code not just as a tool, but as a bridge between ideas and real-world impact. I specialize in ASP.NET MVC and Microsoft SQL Server, but my curiosity never stops at mastering the basics. I’m always on the lookout for innovative solutions to solve complex problems and simplify life for users.
 
-Building web apps that are as beautiful as they are functional is my thing. My goal isn’t just to write clean code, but to create digital experiences that leave a lasting impression. Every line of code is an opportunity to make something better, faster, and more intuitive.
+A passionate .NET Developer from Dhaka, Bangladesh, with a love for turning complex ideas into clean, functional code. I specialize in building web apps, cross-platform solutions, and solving real-world problems with the power of technology.
 
-🔧 My Toolkit:
-Languages: C#, SQL
+🌐 Tech Stack I Speak Fluent:
+Frontend: React, Angular, HTML, CSS, JavaScript
 
-Frameworks & Platforms: ASP.NET MVC, .NET Core, Angular
+Backend: .NET (ASP.NET MVC), Node.js, API Development
 
-Databases: Microsoft SQL Server, MySQL, 
+Databases: SQL Server, MySQL, Entity Framework, ADO.NET
 
-Tools: Visual Studio, Git, SQL Server Management Studio, Postman, 
+Cross-Platform: .NET MAUI – One app, all devices! 📱💻
 
-💡 Currently Exploring:
-ASP.NET Core for high-performance web development
+Tools: Visual Studio | Visual Studio Code | Git | Postman | R Studio
 
-Cloud Computing  for scalable, reliable systems
+⚙️ The Tools That Fuel My Workflow:
+Visual Studio: My powerhouse IDE for .NET and enterprise-level applications.
 
-DevOps & CI/CD to streamline and automate the development lifecycle
+Visual Studio Code: My lightweight code editor for everything from React to Node.js, with lightning-fast debugging.
 
- AI to build smarter solutions
+🚀 What Drives My Code:
+I’m all about building clean, maintainable, and scalable solutions that people will love to use. I’m constantly learning and adapting to new technologies, focusing on modern web apps, cloud computing, and cross-platform development.
 
-🔥 My Developer Philosophy:
-I believe in purpose-driven development—writing code that has meaning and solving problems that matter. For me, coding isn’t just a job; it’s a way to connect with the world, solve problems, and make a tangible difference. My ambition is to build solutions that not only work but evolve with time, helping users achieve more and do more.
+🌱 Learning Journey:
+The more I learn, the more I realize how much more there is to explore. Currently diving deep into advanced API development, cloud-based solutions, and always experimenting with new technologies to stay ahead of the curve.
 
-🚀 Let’s Build the Future Together!
-Let’s create something awesome. Whether you're looking to collaborate on a project, share some tech insights, or discuss innovative ideas, I’m always open to connecting with like-minded people.
+💬 Let’s Connect:
+I love collaborating with fellow developers, sharing knowledge, and working on cool projects. Feel free to explore my repositories and reach out to me – I’m always open to new ideas and discussions! 🚀✨
+
 
 📫 Reach Out:
 www.linkedin.com/in/sonia-yesmin
