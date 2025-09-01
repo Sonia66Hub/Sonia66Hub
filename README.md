@@ -1,4 +1,5 @@
 ![. NET Developer](https://media.licdn.com/dms/image/v2/D4E16AQHzX3j5kf1TZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736527517850?e=1756339200&v=beta&t=lQv5PQDrglPCmn6X91lNW27JRj4SirHODdAlGjLVYfg)
+<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/f79fd172-eb31-401d-a777-46353738cfc4" />
 
 # Hi there 👋, This is Sonia Khatun
 # .NET Developer
