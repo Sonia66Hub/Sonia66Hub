@@ -34,7 +34,7 @@ I love collaborating with fellow developers, sharing knowledge, and working on c
 
 
 📫 Reach Out:
-www.linkedin.com/in/sonia-yesmin
+https://www.linkedin.com/in/sonia-yesmin/
 https://careerhub.idb-bisew.info/
 
 
