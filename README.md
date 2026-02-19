@@ -60,22 +60,7 @@ Skills:   REACT / MVC / HTML / CSS/C++/MySql/API/.NET/javascript/angular/nodejs/
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: yesminsonia66@gmail.com 
 - ⚡ Fun fact: I think I am Funny 
-✅ My Tech Stack & Competencies
-💻 Frontend	🛠️ Backend & API	🗄️ Database	⚙️ Tools & Platforms	🧠 Concepts & Architecture
-HTML5, CSS3, Bootstrap, Tailwind CSS	C#, ASP.NET Core (.NET 8- MVC & Web API)	MS SQL Server, PostgreSQL (optional)	Visual Studio(2022), VS Code, Git, GitHub, Postman	Object-Oriented Programming (OOP)
-JavaScript (ES6+), TypeScript	Entity Framework Core, ADO.NET	Stored Procedures, Views	Swagger, Docker (Basic)	SOLID Principles
-Angular(v20), React(v19+), jQuery, AJAX	SignalR, Razor Pages, MAUI	LINQ, SQL Joins, Optimization	.NET MAUI, Crystal Reports	Clean Architecture, Layered Pattern
-Responsive UI Design	RESTful API, Authentication (JWT)	Database Design & Indexing	Figma, Email Communication	RBAC, Session Management, Reporting
-🧩 Core Competencies
-✅ Desktop Application Development
-✅ Web Application Development
-✅ Mobile Application Development (MAUI)
-✅ Web API Development
-✅ Client-Side Development (HTML, Angular(v20), React(v19+))
-✅ Component-Based Development
-✅ RESTful Development
-✅ Single Page Application (SPA) Development
-✅ Master-Detail UI Implementation
+
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Sonia66Hub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/www.linkedin.com/in/sonia-yesmin/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'> 
