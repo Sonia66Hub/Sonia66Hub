@@ -4,12 +4,12 @@
 # Hi there 👋, This is Sonia Khatun
 # .NET Developer
 
-🌟 Hey there! I’m Sonia – Code Enthusiast & Problem Solver
+🌟 Hey there! I’m Sonia – Code Enthusiast,Problem Solver & live project issue solving
 
 A passionate .NET Developer from Dhaka, Bangladesh, with a love for turning complex ideas into clean, functional code. I specialize in building web apps, cross-platform solutions, and solving real-world problems with the power of technology.
 
 🌐 Tech Stack I Speak Fluent:
-Frontend: React, Angular, HTML, CSS, JavaScript
+Frontend: React, Angular, HTML, CSS, JavaScript,Tailwind css
 
 Backend: .NET (ASP.NET MVC), Node.js, API Development
 
